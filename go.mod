@@ -1,4 +1,4 @@
-module github.com/cyverse-de/esutils/v2
+module github.com/cyverse-de/esutils/v3
 
 go 1.16
 
